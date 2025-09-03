@@ -1,0 +1,33 @@
+Forwarding from 0.0.0.0:5000 -> 5000
+Handling connection for 5000
+Handling connection for 5000
+Handling connection for 5000
+Handling connection for 5000
+E0903 11:05:29.722574   12257 portforward.go:424] "Unhandled Error" err="an error occurred forwarding 5000 -> 5000: error forwarding port 5000 to pod 9f028b92d55002786b5be5c792790ef27fc55981dc41574c61246ccdf0e68f23, uid : failed to find sandbox \"9f028b92d55002786b5be5c792790ef27fc55981dc41574c61246ccdf0e68f23\" in store: not found"
+error: lost connection to pod
+Forwarding from 0.0.0.0:5000 -> 5000
+Handling connection for 5000
+Handling connection for 5000
+Handling connection for 5000
+Handling connection for 5000
+Handling connection for 5000
+Handling connection for 5000
+Handling connection for 5000
+Handling connection for 5000
+Handling connection for 5000
+Handling connection for 5000
+Handling connection for 5000
+Handling connection for 5000
+Handling connection for 5000
+Handling connection for 5000
+Handling connection for 5000
+Handling connection for 5000
+Handling connection for 5000
+Handling connection for 5000
+Handling connection for 5000
+Handling connection for 5000
+Handling connection for 5000
+Handling connection for 5000
+Handling connection for 5000
+Handling connection for 5000
+Handling connection for 5000
